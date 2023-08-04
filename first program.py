@@ -1,0 +1,6 @@
+print("hello world")
+print(3*4)
+print(2+4)
+print(4-1)
+print(10/5)
+print("bye \nthank you")
